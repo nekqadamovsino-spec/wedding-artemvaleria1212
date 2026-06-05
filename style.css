@@ -452,4 +452,33 @@ button{
     text-align:center;
     padding:30px;
   }
+  .rsvp-oval,
+.rsvp-oval label,
+.rsvp-oval h3,
+.rsvp-oval p,
+.radio,
+.check{
+  color:#111 !important;
+}
+
+.rsvp-oval input{
+  color:#111 !important;
+}
+
+.rsvp-oval input::placeholder{
+  color:rgba(0,0,0,.35) !important;
+}
+
+.radio span,
+.check span{
+  border-color:#0b2340 !important;
+}
+
+input[type=text]{
+  border-bottom-color:#0b2340 !important;
+}
+
+button{
+  border-color:#0b2340 !important;
+  color:#0b2340 !important;
 }
