@@ -107,12 +107,13 @@ body{
   padding:0 0 55px;
 }
 .soft-oval{
-  width:104%;
-  margin-left:-2%;
-  border-radius:50% / 7%;
-  padding:100px 52px 110px;
-  text-align:center;
-  background:var(--wine);
+    width:100%;
+    max-width:420px;
+    margin:0 auto;
+    background:#4a0615;
+    border-radius:220px;
+    padding:60px 30px;
+}
 }
 .place h2,.schedule h2,.details h2,.rsvp h2{
   margin:0 0 70px;
