@@ -104,7 +104,8 @@ body{
   line-height:.95;
 }
 .place{
-  padding:0 0 55px;
+    padding:50px 20px;
+    background:var(--cream);
 }
 .soft-oval{
     width:100%;
