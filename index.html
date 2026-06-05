@@ -142,5 +142,23 @@
 </main>
 
 <script src="script.js"></script>
+  <script>
+if (window.innerWidth > 768) {
+    document.body.innerHTML = `
+    <div style="
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        height:100vh;
+        font-family:Arial;
+        text-align:center;
+        padding:20px;
+    ">
+        <div>
+            <h2>Откройте приглашение с телефона 📱</h2>
+        </div>
+    </div>`;
+}
+</script>
 </body>
 </html>
