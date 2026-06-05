@@ -1,13 +1,11 @@
 *{box-sizing:border-box}
 
 :root{
-  --cream:#efe7da;
-  --wine:#4a0615;
-  --wine-dark:#36040e;
-  --ink:#111111;
-  --soft:#8a626a;
+  --wine:#0b2340;
+  --wine-dark:#081825;
+  --cream:#f4f0e8;
+  --soft:#8ea3c9;
 }
-
 html{scroll-behavior:smooth}
 
 body{
